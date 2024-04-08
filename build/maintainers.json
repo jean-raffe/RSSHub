@@ -180,9 +180,6 @@
   "/50forum/": [
     "sddiky"
   ],
-  "/51cto/index/recommend": [
-    "cnkmmk"
-  ],
   "/52hrtt/:area?/:type?": [
     "nczitzk"
   ],
@@ -473,9 +470,6 @@
   "/atcoder/post/:language?/:keyword?": [
     "nczitzk"
   ],
-  "/atptour/news/:lang?": [
-    "LM1207"
-  ],
   "/auto-stats/:category?": [
     "nczitzk"
   ],
@@ -704,8 +698,7 @@
     "DIYgod"
   ],
   "/bilibili/vsearch/:kw/:order?/:disableEmbed?/:tid?": [
-    "pcrtool",
-    "DIYgod"
+    "Symty"
   ],
   "/bilibili/watchlater/:uid/:disableEmbed?": [
     "JimenezLi"
@@ -795,9 +788,8 @@
   "/bloomberg/authors/:id/:slug/:source?": [
     "josh"
   ],
-  "/bloomberg/:site?": [
-    "bigfei"
-  ],
+  "/bloomberg/:site": [],
+  "/bloomberg/": [],
   "/bluestacks/release/5": [
     "TonyRL"
   ],
@@ -2291,10 +2283,7 @@
     "Yoge-Code"
   ],
   "/gov/mmht/*": [],
-  "/gov/moa/:suburl{.+}": [
-    "Origami404",
-    "lyqluis"
-  ],
+  "/gov/moa/:suburl{.+}": [],
   "/gov/moa/sjzxfb/:category{.+}?": [],
   "/gov/moa/zdscxx/:category{.+}?": [],
   "/gov/moe/:type": [
@@ -6061,9 +6050,6 @@
   "/xboxfan/news": [
     "XXY233"
   ],
-  "/xianbao/:category?": [
-    "nashi23"
-  ],
   "/xiaoheihe/add2cart/:platform": [
     "ladeng07"
   ],
@@ -6462,9 +6448,6 @@
   ],
   "/zhiy/posts/:author": [
     "TonyRL"
-  ],
-  "/zhonglun/research/article/:language{[a-zA-Z0-9-]+}?": [
-    "nczitzk"
   ],
   "/zhubai/:id": [
     "naixy28"
